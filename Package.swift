@@ -19,7 +19,7 @@ let package = Package(
             targets: ["GnostrGit"]),
     ],
     dependencies: [
-        .package(path: "../LibGit2-iOS"),
+        .package(url: "https://github.com/randymcmillan/LibGit2-iOS", branch = "main"),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
