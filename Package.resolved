@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Clibgit2",
+        "repositoryURL": "https://github.com/randymcmillan/LibGit2-iOS",
+        "state": {
+          "branch": "main",
+          "revision": "e2f6fb76b7dc30dbaea120dc96a1782358c4794a",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
